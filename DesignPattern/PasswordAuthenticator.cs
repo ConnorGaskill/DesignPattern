@@ -22,10 +22,5 @@ namespace DesignPattern
             return;
 
         }
-
-
-
-
-
     }
 }

@@ -19,8 +19,5 @@ namespace DesignPattern
             this.Credentials = credentials;
             
         }
-
-
-
     }
 }
